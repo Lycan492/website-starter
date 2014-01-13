@@ -7,3 +7,7 @@ h1 {
 	background: #a2f821;
 }
 */
+
+body {
+	background: url("../img/fresh_snow/fresh_snow.png");  /*starting in css folder, must go up to go back down*/
+}
